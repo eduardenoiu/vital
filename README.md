@@ -16,3 +16,9 @@ The latest version 0.32 is available for download, see also the release notes.
 (2) Timed Automata Editor
 (3) UPPAAL PORT Simulator
 (4) UPPAAL PORT Verifier
+
+References:
+
+Enoiu, E. P., Marinescu, R., Seceleanu, C., & Pettersson, P. (2012, July). Vital: A verification tool for east-adl models using uppaal port. In 2012 IEEE 17th International Conference on Engineering of Complex Computer Systems (pp. 328-337). IEEE. http://www.es.mdh.se.ep.bib.mdh.se/pdf_publications/2370.pdf 
+
+Kang, Eun-Young, Eduard Paul Enoiu, Raluca Marinescu, Cristina Seceleanu, Pierre-Yves Schobbens, and Paul Pettersson. "A methodology for formal analysis and verification of EAST-ADL models." Reliability Engineering & System Safety 120 (2013): 127-138. http://www.es.mdh.se.ep.bib.mdh.se/pdf_publications/3881.pdf
