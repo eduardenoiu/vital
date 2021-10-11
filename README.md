@@ -1,5 +1,6 @@
 # VITAL
 ViTAL is a tool which provides model-checking of EAST-ADL systems with regard to timing/behavioral requirements.
+
 <img width="694" alt="Screen Shot 2021-10-11 at 10 35 28" src="https://user-images.githubusercontent.com/7644735/136759197-69213a35-7a27-4fe5-81df-3a9698d39444.png">
 
 We implement an automatic model transformation so that UPPAAL PORT can handle EAST-ADL models as input and provide functional and timing behavior of functional blocks using timed automata semantics. UPPAAL PORT is an extension of UPPAAL tool which supports simulation and model-checking without conversion or flattening to the model of network of timed automata that is usually used in UPPAAL.
